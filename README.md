@@ -5,6 +5,8 @@
 
 # Introduction
 
+
+
 The `git2r` package gives you programmatic access to Git repositories
 from R. Internally the package uses the libgit2 library which is a
 pure C implementation of the Git core methods. For more information
